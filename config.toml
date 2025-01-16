@@ -1,0 +1,8 @@
+[repo]
+git_url = "https://github.com/rust-lang/crates.io-index.git"
+path = "./crates.io-index"
+update_interval = 600
+
+[web]
+address = "127.0.0.1"
+port = 8000
